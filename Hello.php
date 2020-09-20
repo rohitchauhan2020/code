@@ -25,6 +25,7 @@
 
   echo "Hello Git";
   echo 5*4;
+  echo "today is sunday";
 
 
    

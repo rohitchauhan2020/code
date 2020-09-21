@@ -27,6 +27,7 @@
   echo 5*4;
   echo "today is sunday";
   echo "tommorow is monday";
+  echo "today i done something";
 
 
    

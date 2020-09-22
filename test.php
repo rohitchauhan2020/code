@@ -10,6 +10,8 @@ function myTest(){
     echo"<br>";
     myTest();
     echo"<br>";
+    myTest();
+    echo"<br>";
     //this file for variables in php     
 /*
 integer 

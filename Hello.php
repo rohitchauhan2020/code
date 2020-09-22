@@ -21,12 +21,16 @@
 
   $d = (object) $ct;
 
-  print_r($d->name);
-
+  echo"my name is ".$d->name;
+  echo"<br>";
   echo "Hello Git";
+  echo"<br>";
   echo 5*4;
+  echo"<br>";
   echo "today is sunday";
+  echo"<br>";
   echo "tommorow is monday";
+  echo"<br>";
   echo "today i done something";
 
 
